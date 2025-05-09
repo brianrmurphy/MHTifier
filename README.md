@@ -1,7 +1,8 @@
 # MHTifier
+
 Un/packs an MHT (MHTML) archive into/from separate files, writing/reading them in directories to match their Content-Location.
 
-Whole [story](http://decodecode.net/elitist/2013/01/mhtifier/) is in my devlog.
+Whole [story](http://decodecode.net/elitist/2013/01/mhtifier/) apparently is now a dead link.
 
 # Issues
 1. Cleanest would've been to use stdin/out, but turned out inconvenient, annoying even, so added command line options.
